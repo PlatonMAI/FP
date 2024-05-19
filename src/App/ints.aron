@@ -1,0 +1,11 @@
+open print
+#
+
+let lhs = 6
+let rhs = 5.0
+
+let name = "Vasya"
+
+let x = exec hello(name)
+
+(lhs + rhs)
